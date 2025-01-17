@@ -1,5 +1,5 @@
 # Circle to Search (Trigger)
-Circle to Search (Trigger) is an Android application designed to execute system-level commands directly from a launcher shortcut without opening a visible app interface. The app is lightweight, translucent, and leverages root access to perform tasks seamlessly in the background. The story behind this project is using full gesture mode in android device with gidden gesture line or pill make us unavailable to access Circle to Search. Using this apps you could put this apps in quickball (com.miui.touchassistant) or floating window to open Circle to Search without depending on home button or gesture line or pill. 
+Circle to Search (Trigger) is an Android application designed to execute system-level commands directly from a launcher shortcut without opening a visible app interface. The app is lightweight, translucent, and leverages root access to perform tasks seamlessly in the background. The story behind this project is using full gesture mode in android device with hidden gesture line or pill make us unavailable to access Circle to Search. Using this apps you could put this apps in quickball (com.miui.touchassistant) or floating window to open Circle to Search without depending on home button or gesture line or pill. 
 
 Features:
 
