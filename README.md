@@ -23,4 +23,4 @@ Test Device:
 
 Contact Me:
 
-    For feedback or assistance, please contact me at https://xdaforums.com/m/meghundul.6195083/.
+    For feedback or assistance, please contact me at github or https://xdaforums.com/m/meghundul.6195083/.
