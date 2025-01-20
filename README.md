@@ -12,6 +12,7 @@ Features:
 
 Requirements:
 
+    Your device must have Circle to Search feature by default. Unless it won't work. Try to search in launcher menu or search for com.android.overlay.circletosearch or CircleToSearchHelper
     Android 13+ (Minimum SDK 33)
     Device with root access (e.g., Magisk)
     Magisk app configured to suppress toast notifications (optional)
