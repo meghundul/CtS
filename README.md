@@ -23,6 +23,3 @@ Test Device:
 Contact Me:
 
     For feedback or assistance, please contact me at https://xdaforums.com/m/meghundul.6195083/.
-    Donate me:
-    BTC: 1NbRKoMyeq6tTzzRpxRdvrksPSxo8pDfbZ
-    ETH: 0x30bf24150a6eb415c3139cdf27a8de91652cbe7e
